@@ -1,0 +1,1 @@
+[Identifier => void | 1]  [Identifier => main | 1]  [Operator => () | 1]  [Operator => { | 1]  [Identifier => cout | 3]  [Operator => << | 3]  [Identifier => "Sufyan Roll No 23 " | 3]  [Operator => << | 3]  [Identifier => "Tahmeer Roll no 28" | 3]  [Eof_Token => ; | 3]  [Operator => } | 6]  
